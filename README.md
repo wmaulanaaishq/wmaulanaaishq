@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="420" valign="top">
-<img src="https://i.giphy.com/Ssts7rvD7E01O.gif" width="400" height="259" alt="coding gif"/>
+<img src=""C:\Users\ASUS\Downloads\hxh.gif"" width="400" height="259" alt="coding gif"/>
 </td>
 <td valign="top">
 <p>
