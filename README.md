@@ -10,10 +10,6 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ3Y3JmNTJ3eTYyN3hxbmphMGx6Z20xdTg2cm56cnFqdHVpNG9vOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3b8jzcVoLllgFmbvQu/giphy.gif" width="400" height="259" alt="coding gif"/>
 </td>
 <td valign="top">
-<p>
-
-
-
 <div align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=wmaulanaaishq&amp;theme=tokyonight&amp;hide_border=true">
 </div>
