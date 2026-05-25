@@ -1,13 +1,15 @@
 <h1>
-     <img align="center" width="24px" src="C:\Users\ASUS\Downloads\hxh.gif"></a>
+     <img align="center" width="24px" 
+     src="https://tenor.com/id/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235"></a>
     <span>Wahyu Maulana Ishaq</span>
-    <img align="center" width="24px" src="C:\Users\ASUS\Downloads\hxh.gif"></a>
+    <img align="center" width="24px" 
+     src="https://tenor.com/id/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235"></a>
     <a href="https://github.com/wmaulanaaishq"><img align="right" src="https://komarev.com/ghpvc/?username=luthfidi&style=flat-square&color=blueviolet" alt="profile view counter"/></a>
 </h1>
 <table>
 <tr>
 <td width="420" valign="top">
-<img src="C:\Users\ASUS\Downloads\hxh.gif" width="400" height="259" alt="coding gif"/>
+<img src="https://tenor.com/id/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235" width="400" height="259" alt="coding gif"/>
 </td>
 <td valign="top">
 <p>
