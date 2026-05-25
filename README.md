@@ -18,7 +18,7 @@
 - 🌐 Check My Portfolio Website: 
 
 <div align="center">
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&amp;theme=tokyonight&amp;hide_border=true">
+<img height="160" src="">
 </div>
 
 
