@@ -12,11 +12,6 @@
 <td valign="top">
 <p>
 
-
-- 🧑🏽‍💻 AI Engineer
-- 🏫 Informatics student,
-- 🌐 Check My Portfolio Website: 
-
 <div align="center">
 <img height="160" src="">
 </div>
